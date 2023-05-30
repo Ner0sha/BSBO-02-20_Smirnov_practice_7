@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856239068984",
+    "project_id": "smirnov-dmitry",
+    "storage_bucket": "smirnov-dmitry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856239068984:android:b5974b96245969cc7313cd",
+        "android_client_info": {
+          "package_name": "ru.mirea.smirnov.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBR1ckhXwrhpooFL-OVfEpiqpJjTSFKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
